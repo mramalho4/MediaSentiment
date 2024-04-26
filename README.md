@@ -14,7 +14,7 @@ install.packages("devtools")
 Then, install MediaSentiment from GitHub:
 
 ```R
-devtools::install_github("your_username/MediaSentiment")
+devtools::install_github("your_username/mediasentiment_package")
 ```
 
 ## Functions
