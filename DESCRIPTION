@@ -1,0 +1,9 @@
+Package: Ramalho
+Title: MediaSentiment
+Version: 0.0.0.9000
+Authors@R: Mackenzie Ramalho 
+Description:package designed for sentiment analysis of text data, with a focus on social media content such as tweets, Facebook posts, and online reviews
+It provides functions for preprocessing text, identifying word frequencies, and extracting sentiment scores
+Depends:R (>=3.1.2)
+License: CCO
+LazyData: true
