@@ -1,4 +1,4 @@
-Package: Ramalho
+Package: mediasentiment_package
 Title: MediaSentiment
 Version: 0.0.0.9000
 Authors@R: Mackenzie Ramalho 
